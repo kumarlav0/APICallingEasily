@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-APIHandler-APIHandlerUITests/Pods-APIHandler-APIHandlerUITests-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework
+${BUILT_PRODUCTS_DIR}/MBProgressHUD/MBProgressHUD.framework
