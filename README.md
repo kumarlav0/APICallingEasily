@@ -1,10 +1,11 @@
 # APICallingEasily
 any one can call API very easily using my WebHelper file.
 
-
+```swift
 //MARK:- it is simple API call with Post Method
    
-           func login(){
+    func login()
+    {
            var dictPost:[String: AnyObject]!
                dictPost = ["user_id":"user@gmail.com" as AnyObject,"password":"#@123abc" as AnyObject]
                WebHelper.requestPostUrl(strURL: ApiNames.LOGIN, Dictionary: dictPost, Success:{
@@ -17,3 +18,5 @@ any one can call API very easily using my WebHelper file.
                      self.alertWithOk(title: "", body: failure.localizedDescription)
                 })
     }
+
+```
