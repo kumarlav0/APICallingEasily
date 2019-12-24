@@ -7,7 +7,6 @@
 //
 
 import UIKit
-import Kingfisher
 // if you need to Call any API than you nedd to add some code on InFo.plist file.
 // you need to set App Transport Security Setting. and Allow Arbitrary Load = true
 
