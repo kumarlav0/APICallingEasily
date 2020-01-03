@@ -1,7 +1,21 @@
 # APICallingEasily
 any one can call API very easily using my WebHelper file.
 
+<h3> How to use. </h3>
+
+<h4> Step 1. Just Download the project </br> 
+     Step 2. UnZip file.</br> 
+     Step 3. Copy APIHandle file to your project.</br> 
+     Step 4. Install podfile which is given in podfile.</br> 
+      # pod 'Alamofire'</br> 
+      # pod 'MBProgressHUD'</br> 
+      Step5. Use methods as given below.
+</h4>
+
+
 ```swift
+// Podfiles: pod 'Alamofire'
+//           pod 'MBProgressHUD'
 //MARK:- it is simple API call with Post Method
    
     func login()
