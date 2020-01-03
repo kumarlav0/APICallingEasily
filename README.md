@@ -12,6 +12,9 @@ any one can call API very easily using my WebHelper file.
       Step5. Use methods as given below.
 </h4>
 
+<h3> How to use Methods. </h3>
+
+<h4> It is simple API call with Post Method. </h4>
 
 ```swift
 // Podfiles: pod 'Alamofire'
@@ -32,8 +35,10 @@ any one can call API very easily using my WebHelper file.
                      self.alertWithOk(title: "", body: failure.localizedDescription)
                 })
     }
+```
+<h4> It is simple API call with Image Post Method. </h4>
 
-
+```swift
  //MARK:- it is simple API call with Image Post Method
     func registrationWithImage()
     {
@@ -50,7 +55,12 @@ any one can call API very easily using my WebHelper file.
                 })
     }
     
-     //MARK:- it is simple API call with Multiple Image Post Method
+  ```  
+    
+   <h4> It is simple API call with Multiple Image's Post Method. </h4> 
+    
+   ```Swift 
+     //MARK:- it is simple API call with Multiple Image's Post Method
     func sendMultipleImagesWithData()
     {
         let imgArr = [UIImage]()
