@@ -5,7 +5,7 @@ any one can call API very easily using my WebHelper file.
 
 <h4> Step 1. Just Download the project </br> 
      Step 2. UnZip file.</br> 
-     Step 3. Copy APIHandle file to your project.</br> 
+     Step 3. Copy APIHandler file to your project.</br> 
      Step 4. Install podfile which is given in podfile.</br> 
       # pod 'Alamofire'</br> 
       # pod 'MBProgressHUD'</br> 
