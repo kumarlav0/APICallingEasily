@@ -23,7 +23,7 @@ struct ApiNames
     // if in your Project API key required to call any API than put it below.
     static let API_KEY                           = ""
     
-    static let NO_INTERNET_MESSAGE               = "No Interet Connection"
+    static let NO_INTERNET_MESSAGE               = "No Internet Connection"
     static let API_LOADING_MESSAGE               = "Loading..."
     
     
