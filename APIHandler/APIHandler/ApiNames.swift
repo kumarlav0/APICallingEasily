@@ -15,7 +15,7 @@ struct ApiNames
     //Put your App-Name here to get anywhere in the project.
     static let APP_NAME                          = "MyAppName"
     //Pur here Default url of your API . an example is given below just remove it and put your own url here.
-    static let DEFAULT_URL                       = "http://iglnetwork.com/api-V1/" //"http://appwebsite.com/api-V1/"
+    static let DEFAULT_URL                       = "http://appwebsite.com/api-V1/"
     // Put here the name of your Cover image placeholder name which is going to use in whole project.
     static let COVER_IMAGE                       = "placeholderCover"
     // Put here the name of your Square image placeholder name which is going to use in whole project. if you need anything else just create a new one below.
